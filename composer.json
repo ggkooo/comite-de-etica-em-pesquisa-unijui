@@ -1,0 +1,17 @@
+{
+    "name": "giordanoberwig/comite-de-etica-em-pesquisa-unijui",
+    "description": "Developing a web application for the CEP of UNIJUI.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "giordanoberwig\\ComiteDeEticaEmPesquisaUnijui\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "giordanoberwig"
+        }
+    ],
+    "require": {}
+}
