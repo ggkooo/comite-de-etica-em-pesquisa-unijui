@@ -67,8 +67,8 @@ require_once __DIR__ . DIRECTORY_SEPARATOR . 'partials' . DIRECTORY_SEPARATOR . 
             <table class="table table-striped-columns w-75 mx-auto">
                 <thead>
                 <tr>
-                    <th scope="col" class="text-center">Prazo para inserir projetos na Plataforma Brasil*</th>
-                    <th scope="col" class="text-center">Data da reunião: (Analise dos projetos pelo CEP)</th>
+                    <th scope="col" class="text-center">Dia da semana</th>
+                    <th scope="col" class="text-center">Horário de funcionamento</th>
                 </tr>
                 </thead>
                 <tbody>
