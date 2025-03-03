@@ -20,6 +20,16 @@
     </div>
 
     <div class="container mt-5">
+        <h2 class="font-primary">Para ser ética, a pesquisa precisa:</h2>
+        <ul class="mt-2 ms-3 ms-md-4 ms-lg-5 mb-3">
+            <li>Respeitar o participante da pesquisa em sua dignidade e autonomia, reconhecendo sua vulnerabilidade, assegurando sua vontade de contribuir e permanecer, ou não, na pesquisa, por intermédio da manifestação expressa, livre e esclarecida;</li>
+            <li>Ponderar entre riscos e benefícios, tanto conhecidos como potenciais, individuais ou coletivos, comprometendo-se com o máximo de benefícios e o mínimo de danos e riscos;</li>
+            <li>Garantir que danos previsíveis sejam evitados;</li>
+            <li>Ter relevância social, o que garante a igual consideração dos interesses envolvidos, não perdendo o sentido de sua destinação sócio humanitária.</li>
+        </ul>
+    </div>
+
+    <div class="container my-5">
         <h2 class="font-primary">Atribuições do CEP/UNIJUÍ</h2>
         <p>O CEP/UNIJUÍ desempenha papel consultivo, deliberativo e educativo em questões de ética em pesquisa com seres humanos. As principais finalidades e atribuições do CEP/UNIJUÍ, conforme o art. 4º do seu Regimento Interno, são:</p>
         <p>I – avaliar protocolos de pesquisa envolvendo seres humanos, com prioridade nos temas de relevância pública e de interesse estratégico da agenda de prioridades do SUS, com base nos indicadores epidemiológicos, emitindo parecer, devidamente justificado, sempre orientado, dentre outros, pelos princípios da impessoalidade, transparência, razoabilidade, proporcionalidade e eficiência, dentro dos prazos estabelecidos em norma operacional, evitando redundâncias que resultem em morosidade na análise;</p>
