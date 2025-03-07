@@ -20,6 +20,16 @@ html, body {
     color: var(--primary-color);
 }
 
+.font-primary-link {
+    color: var(--primary-color);
+}
+
+.font-primary-link:hover {
+    color: var(--primary-color) !important;
+    text-decoration: underline !important;
+    text-underline-offset: 5px !important;
+}
+
 .active {
     color: var(--primary-color) !important;
     font-weight: 600 !important;
