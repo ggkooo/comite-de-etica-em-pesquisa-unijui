@@ -29,7 +29,7 @@
                     <ul class="dropdown-menu bg-light">
                         <li><a class="dropdown-item" href="/cadastro-plataforma-brasil">Cadastro na Plataforma Brasil</a></li>
                         <li><hr class="dropdown-divider"></li>
-                        <li><a class="dropdown-item" href="/plataforma-brasil">Plataforma Brasil</a></li>
+                        <li><a class="dropdown-item" href="https://plataformabrasil.saude.gov.br/login.jsf" target="_blank">Plataforma Brasil</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">
