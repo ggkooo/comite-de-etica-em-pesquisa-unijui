@@ -1,7 +1,9 @@
 <?php
 
-use giordanoberwig\ComiteDeEticaEmPesquisaUnijui\Controllers\{HomePageController,
+use giordanoberwig\ComiteDeEticaEmPesquisaUnijui\Controllers\{CalendarPageController,
+    HomePageController,
     MembersPageController,
+    NormativePageController,
     Page404Controller};
 
 $uri =  $_SERVER['REQUEST_URI'];
@@ -13,9 +15,9 @@ if ($uri == '/') {
 } else if ($uri == '/membros') {
     new MembersPageController();
 } else if ($uri == '/normativas') {
-    exit();
+    new NormativePageController();
 } else if ($uri == '/calendario') {
-    exit();
+    new CalendarPageController();
 } else if ($uri == '/documentos') {
     exit();
 } else if ($uri == '/duvidas') {
