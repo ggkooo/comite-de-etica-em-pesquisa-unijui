@@ -20,7 +20,7 @@
                     <a class="nav-link <?php if ($uri == '/normativas') {echo 'active';} ?>" href="/normativas">Normativas</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link <?php if ($uri == '/calendario') {echo 'active';} ?>" href="/calendario">Calendário de Reuniões</a>
+                    <a class="nav-link <?php if ($uri == '/reunioes') {echo 'active';} ?>" href="/reunioes">Reuniões</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -29,11 +29,34 @@
                     <ul class="dropdown-menu bg-light">
                         <li><a class="dropdown-item" href="/cadastro-plataforma-brasil">Cadastro na Plataforma Brasil</a></li>
                         <li><hr class="dropdown-divider"></li>
+                        <li><a class="dropdown-item" href="/videos-tutoriais">Vídeos tutoriais</a></li>
+                        <li><hr class="dropdown-divider"></li>
                         <li><a class="dropdown-item" href="https://plataformabrasil.saude.gov.br/login.jsf" target="_blank">Plataforma Brasil</a></li>
                     </ul>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link <?php if ($uri == '/documentos') {echo 'active';} ?>" href="/documentos">Documentos</a>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Documentos
+                    </a>
+                    <ul class="dropdown-menu bg-light">
+                        <li><a class="dropdown-item" href="#">Checklist</a></li>
+                        <li><hr class="dropdown-divider"></li>
+                        <li><a class="dropdown-item" href="/documentos-modelos">Modelos</a></li>
+                        <li><hr class="dropdown-divider"></li>
+                        <li><a class="dropdown-item" href="#" target="_blank">Orientações</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Capacitações
+                    </a>
+                    <ul class="dropdown-menu bg-light">
+                        <li><a class="dropdown-item" href="/educa-ceps">Educa CEPs</a></li>
+                        <li><hr class="dropdown-divider"></li>
+                        <li><a class="dropdown-item" href="#">Modelos</a></li>
+                        <li><hr class="dropdown-divider"></li>
+                        <li><a class="dropdown-item" href="#" target="_blank">Plano de Capacitação CEP UNIJUÍ</a></li>
+                    </ul>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link <?php if ($uri == '/duvidas') {echo 'active';} ?>" href="/duvidas">Dúvidas</a>
