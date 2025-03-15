@@ -5,12 +5,11 @@
 
 <div class="container text-justify lh-lg">
     <div class="container mt-5">
-        <h2 class="font-primary">Apresentação</h2>
-        <p>O Comitê de Ética em Pesquisa com Seres Humanos da UNIJUÍ – CEP/UNIJUÍ é órgão colegiado interdisciplinar e independente, de relevância pública, de caráter consultivo, deliberativo e educativo, criado para defender a integridade, a dignidade e os interesses dos participantes em pesquisas, bem como para contribuir no desenvolvimento da pesquisa dentro de padrões éticos.</p>
+        <h1 class="font-primary text-center">Comitê de Ética em Pesquisa com Seres Humanos da UNIJUÍ– CEP/UNIJUÍ</h1>
     </div>
 
     <div class="container mt-5">
-        <h2 class="font-primary">O Comitê de Ética em Pesquisa com Seres Humanos da UNIJUÍ– CEP/UNIJUÍ</h2>
+        <h2 class="font-primary">Apresentação</h2>
         <p>O Comitê de Ética em Pesquisa da UNIJUÍ - CEP/UNIJUÍ é um órgão colegiado interdisciplinar e independente, de relevância pública, de caráter consultivo, deliberativo e educativo, criado para defender os interesses dos participantes da pesquisa em sua integridade e dignidade e para contribuir no desenvolvimento da pesquisa dentro de padrões éticos.
         </p>
         <p>Pesquisas envolvendo seres humanos são aquelas que têm como participantes o ser humano, e que os envolvam de forma direta ou indireta, incluindo o manejo de seus dados, informações ou materiais biológicos. É nesta linha que são submetidos aos Comitês os protocolos e projetos de qualquer área científica para análise prévia e acompanhamento de seu desenvolvimento em relação ao respeito a integridade e dignidade do ser humano.

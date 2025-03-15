@@ -3,7 +3,7 @@ require_once __DIR__ . DIRECTORY_SEPARATOR . 'partials' . DIRECTORY_SEPARATOR . 
 require_once __DIR__ . DIRECTORY_SEPARATOR . 'partials' . DIRECTORY_SEPARATOR . 'navbar.php';
 ?>
 
-<div class="container text-justify lh-lg">
+<div class="container text-justify lh-lg my-5">
     <div class="container">
         <h2 class="font-primary">Coordenadores</h2>
         <div class="container my-3 lh-slg">
