@@ -2,10 +2,10 @@
 
 namespace giordanoberwig\ComiteDeEticaEmPesquisaUnijui\Controllers;
 
-class NormativePageController
+class NormativasPageController
 {
     public function __construct()
     {
-        require_once __DIR__ . DIRECTORY_SEPARATOR . '..' . DIRECTORY_SEPARATOR . 'Views' . DIRECTORY_SEPARATOR . 'normative.php';
+        require_once __DIR__ . DIRECTORY_SEPARATOR . '..' . DIRECTORY_SEPARATOR . 'Views' . DIRECTORY_SEPARATOR . 'normativas.php';
     }
 }
