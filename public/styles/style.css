@@ -35,6 +35,19 @@ html, body {
     font-weight: 600 !important;
 }
 
+.btn-video {
+    background-color: transparent !important;
+    cursor: pointer !important;
+}
+
+.btn-video:hover {
+    background-color: var(--primary-color) !important;
+}
+
+.btn-video:hover p {
+    color: white !important;
+}
+
 .color-text {
     color: var(--text-color);
 }
@@ -53,4 +66,52 @@ html, body {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+}
+
+.video-images {
+    width: 100%;
+    height: auto;
+}
+
+@media (min-width: 576px) {
+    .video-images {
+        width: 80%;
+    }
+}
+
+@media (min-width: 768px) {
+    .video-images {
+        width: 60%;
+    }
+}
+
+@media (min-width: 992px) {
+    .video-images {
+        width: 70%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .video-images {
+        width: 100%;
+    }
+}
+
+.modal-body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.modal-body iframe {
+    flex: 1 1 45%;
+    max-width: 45%;
+    margin: 10px;
+}
+
+@media (max-width: 768px) {
+    .modal-body iframe {
+        flex: 1 1 100%;
+        max-width: 100%;
+    }
 }
