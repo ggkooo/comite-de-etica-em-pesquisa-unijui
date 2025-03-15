@@ -4,7 +4,7 @@ require_once __DIR__ . DIRECTORY_SEPARATOR . 'Partials' . DIRECTORY_SEPARATOR . 
 ?>
 
 <div class="container text-justify lh-lg">
-    <div class="container mt-5">
+    <div class="container my-5">
         <h2 class="font-primary">Normativas</h2>
         <p><a href="/docs/2024.4.30_Regimento_CEP_UNIJUI_revisao_APROVADO.docx.pdf" target="_blank" rel="external" class="font-primary fw-bold text-decoration-none">Regimento do CEP UNIJUÍ</a></p>
         <p><a href="https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14874.htm" target="_blank" rel="external" class="font-primary fw-bold text-decoration-none">Lei nº 14.874, de 28 de maio de 2024.</a> Dispõe sobre a pesquisa com seres humanos e institui o Sistema Nacional de Ética em Pesquisa com Seres Humanos.</p>
